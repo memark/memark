@@ -1,6 +1,6 @@
 # Magnus Markling (memark)
 
-## Freelance Cloud Architect
+## Freelancer | Google Cloud Certified Professional Cloud Architect
 
 Up-to-date information, including my availability and how to contact me, can be found on my [LinkedIn profile](https://www.linkedin.com/in/magnusmarkling/).
 
