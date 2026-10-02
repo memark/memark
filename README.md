@@ -1,8 +1,6 @@
 # Magnus Markling (memark)
 
-## Freelancer | Google Cloud Certified Professional Cloud Architect | Rust Developer
-
-_Currently working for Mainmatter on the Redis project._
+## Freelancer | Senior Rust Developer | Google Cloud Certified Professional Cloud Architect
 
 Up-to-date information, including my availability and how to contact me, can be found on my [LinkedIn profile](https://www.linkedin.com/in/magnusmarkling/).
 
